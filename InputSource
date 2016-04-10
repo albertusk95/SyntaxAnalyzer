@@ -1,0 +1,46 @@
+begin 
+	if (a) then 
+	begin 
+		a=1 
+	end 
+	a=1 
+	input (a+1) 
+	for (a+1+2 to 3) do 
+	begin 
+		for (a to 5) do 
+		begin 
+			do 
+				input (a) 
+				a=1 
+				input (a+1) 
+				a = 1+1*2 
+				a = a+1 
+				for (a to 1) do 
+				begin 
+					a = 1 
+					if (a) then 
+					begin 
+						a=1 
+					end 
+				end 
+			while (a>=1) 
+			a = 1 + 2 * (a+b) 
+		end 
+	end 
+	for (a+(b*2+c) to 5) do 
+	begin 
+		if (a >= 1) then 
+		begin 
+		end 
+		else 
+		begin 
+		end 
+	end 
+	if (a) then 
+	begin 
+		a=1 
+	end 
+	else 
+	begin 
+	end 
+end 
